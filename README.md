@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript, CSS, HTML, Node, React</strong>
+  🦄 Linguagens: <strong>Javascript, CSS, HTML</strong>
 </p>
 
 <p align="left">
